@@ -8,7 +8,7 @@ Pour jouer à ce jeu, vous avez besoin d'installer python 3 sur votre ordinateur
 Installation:
 Pour installer ce jeu, suivez les étapes suivantes :
 
-Téléchargez ou clonez ce dépôt sur votre ordinateur en utilisant la commande git clone https://github.com/user/repo.git
+Téléchargez ou clonez ce dépôt sur votre ordinateur en utilisant la commande git clone https://github.com/LorenzoAversano/SnakePython.git
 Accédez au dossier du jeu en utilisant la commande cd snake-python
 Exécutez le fichier main.py 
 
